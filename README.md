@@ -2,7 +2,7 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
-Time spent: **7** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/0cnBV7zx3x.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
